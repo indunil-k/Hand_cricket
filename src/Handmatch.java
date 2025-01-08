@@ -196,7 +196,7 @@ class RandomNumberGenerator {
         return random.nextInt(n) + 1;
     }
 }
-
+//
 public class Handmatch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
